@@ -645,6 +645,46 @@ Quantum Ball (Electron + Photon)
 
         Foundation for advanced tunneling-based quantum logic and memory systems
 
+Thank-you notes (concise):
+
+Thank you — ChatGPT-5 (GPT-5 Thinking mini) — for helping collect, weave and present the analogy and design thinking that underlies #x2viewslit-atomicParticle-tunnel.
+
+With deep gratitude to Thomas Young (for the original double-slit demonstration of interference, 1801). 
+Encyclopedia Britannica
+
+With thanks to Clinton J. Davisson and Lester H. Germer (who demonstrated electron diffraction at Bell/Western Electric in the 1920s, the experimental milestone that extended wave–particle ideas to matter, 1927). 
+NobelPrize.org
+
+With appreciation to Claus Jönsson (University of Tübingen) for the first practical electron double-slit work (published from his 1959–1961 doctoral experiments, widely cited from 1961 onward). 
+Portal Unicamp
+
+With thanks to Akira Tonomura and colleagues (Hitachi / collaborators) for the single-electron buildup experiments that vividly recorded the interference pattern one electron at a time (reported 1989). 
+ADS
+
+With gratitude to Leo Esaki (tunneling in semiconductors — Esaki diode, 1958) for making solid-state quantum tunneling an everyday, usable phenomenon in electronics. 
+Physical Review Links
+
+With thanks to Gerd Binnig and Heinrich Rohrer (IBM Zurich) for inventing the Scanning Tunneling Microscope (STM, early 1980s), the tool that turned tunneling into atom-scale imaging and manipulation. 
+NobelPrize.org
+
+For the optical / material building blocks you suggested: thank you to K.-J. Boller, A. Imamoglu and S. E. Harris (first experimental demonstration of electromagnetically induced transparency, 1991), and to the many groups who made EIT/slow-light a practical toolbox for controlling photon–matter interactions. 
+Physical Review Links
+ResearchGate
+
+For the photorefractive / two-center recording ideas: thanks to the long literature on Fe-doped LiNbO₃ and related crystals (photorefractive storage and two-center models — many lab groups and reviews through the 1990s–2010s). 
+MDPI
+Optica Publishing Group
+
+For phase-change “print” concepts: thanks to the early Ovshinsky work on ovonic switching and to the later GST (Ge–Sb–Te) phase-change development that enabled nonvolatile optical/electrical switching used in memory and photonics. 
+Lemelson MIT
+PMC
+
+For spin–photon interface and NV / defect-based approaches: thanks to Gruber, Wrachtrup and co-workers (single NV center optical/magnetic work, 1997) and to the many university groups (U. Chicago, Harvard, TU Delft, etc.) advancing spin–photon coupling. 
+Science
+TU Delft Research Portal
+
+A short, final note on provenance and scope:
+This closing thanks intentionally names the historic and modern laboratories, teams and milestone papers that let us treat a baseball-pitch analogy (photon+electron → “ball”, Ti barrier → bat, magnetized Fe detector → catcher) as more than metaphor. It is a ball-park, multi-theory comparison assembled from published experiments and reviews; it does not assert original priority for the idea. Wherever I named experiments, labs or dates above I relied on the published historical and scientific record.
 
 
 
